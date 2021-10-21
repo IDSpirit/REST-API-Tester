@@ -1,0 +1,38 @@
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.exe
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.deps.json
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.runtimeconfig.json
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.runtimeconfig.dev.json
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.dll
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.pdb
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.csprojAssemblyReference.cache
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\MainWindowView.g.cs
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK_MarkupCompile.cache
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK_MarkupCompile.lref
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\MainWindowView.baml
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.g.resources
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.AssemblyInfoInputs.cache
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.AssemblyInfo.cs
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.csproj.CoreCompileInputs.cache
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.dll
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.pdb
+C:\Users\zakar\source\repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.genruntimeconfig.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.exe
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.deps.json
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.runtimeconfig.json
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.runtimeconfig.dev.json
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\bin\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.csprojAssemblyReference.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\MainWindowView.g.cs
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK_MarkupCompile.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK_MarkupCompile.lref
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\MainWindowView.baml
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.g.resources
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.AssemblyInfoInputs.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.AssemblyInfo.cs
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.csproj.CoreCompileInputs.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Testing Raxer Chroma SDK\Testing Raxer Chroma SDK\obj\Debug\netcoreapp3.1\Testing Raxer Chroma SDK.genruntimeconfig.cache
